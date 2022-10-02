@@ -1,0 +1,17 @@
+
+
+.header{
+    height: 800px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url(imagenes/ba1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+footer{
+    background-color: rgb(13, 35, 112);
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
