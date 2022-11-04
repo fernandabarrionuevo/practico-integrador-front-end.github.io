@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 .header{
     height: 800px;
@@ -11,7 +15,8 @@ footer{
     background-color: rgb(13, 35, 112);
 }
 
-footer a{
-    color: white;
-    text-decoration: none;
+
+/*-TICKETS-*/
+.header__tickets{
+    height: auto;
 }
